@@ -53,7 +53,7 @@ print(sorted_by_values)
 ~~~
 
 ## Sample Output
-<img width="1038" height="572" alt="image" src="https://github.com/user-attachments/assets/79bac3f4-4774-4019-99a3-5af0eb9abe0c" />
+<img width="1038" height="572" alt="image" src="https://github.com/user-attachments/assets/fe82a4c8-035e-4012-b66f-c2b3e1aab83e" />
 
 ## Result
 The Python program that sorts a dictionary's is executed successfully.
